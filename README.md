@@ -1,5 +1,4 @@
 # movie-plot-genre-predictor
-
 Reference _ 
 Training a Transformer model to predict movie genres
 
